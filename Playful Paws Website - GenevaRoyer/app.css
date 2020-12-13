@@ -1,0 +1,47 @@
+body {
+  background-image: url(playfulpawbackground.jpg);
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p.nav-link {
+  z-index: 1;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+}
+a:visited {
+  color: white;
+}
+a {
+  color: white;
+}
+
+p.slogan {
+  z-index: 2;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 60px;
+  font-style: bold;
+  text-align: center;
+  margin-left: 58%;
+  margin-top: 130px;
+}
+img.logo {
+  z-index: 3;
+  margin-left: 71.5%;
+  margin-top: -30px;
+}
+p.author {
+  z-index: 4;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 90px;
+  margin-left: 90%;
+}
